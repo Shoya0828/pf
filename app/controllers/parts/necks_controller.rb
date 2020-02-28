@@ -1,0 +1,2 @@
+class NecksController < ApplicationController
+end

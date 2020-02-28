@@ -1,0 +1,2 @@
+class ShouldersController < ApplicationController
+end

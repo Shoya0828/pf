@@ -1,0 +1,2 @@
+class AbsController < ApplicationController
+end
